@@ -1,30 +1,30 @@
-# iFoody JMI App Design
+# Diseño de la App iFoody
 
-Welcome to iFoody JMI, your go-to app for exploring a variety of food categories and discovering local restaurants.
+Bienvenido a iFoody, tu aplicación ideal para explorar una variedad de categorías de alimentos y descubrir restaurantes locales.
 
-## Overview
+## Resumen
 
-iFoody JMI is designed to provide users with a seamless experience in exploring different food categories and finding their favorite restaurants. The app allows users to browse through categories like burgers, pizza, Asian cuisine, and more, making it easy to find the perfect place to satisfy their cravings.
+iFoody está diseñada para proporcionar a los usuarios una experiencia fluida al explorar diferentes categorías de alimentos y encontrar sus restaurantes favoritos. La aplicación permite a los usuarios navegar a través de categorías como hamburguesas, pizza, cocina asiática y más, facilitando la búsqueda del lugar perfecto para satisfacer sus antojos.
 
-## Features
+## Funcionalidades
 
-- **Category Exploration:** Browse through a diverse range of food categories.
-- **Restaurant Discovery:** Explore local restaurants with enticing images and names.
-- **User-Friendly Interface:** Enjoy a simple and intuitive app design for a smooth experience.
-- **Order Tracking:** Keep track of your upcoming and past food orders easily.
+- **Exploración de Categorías:** Navega a través de una amplia gama de categorías de alimentos.
+- **Descubrimiento de Restaurantes:** Explora restaurantes locales con imágenes y nombres atractivos.
+- **Interfaz Amigable:** Disfruta de un diseño de aplicación simple e intuitivo para una experiencia sin problemas.
+- **Seguimiento de Pedidos:** Mantén un registro de tus pedidos de comida pasados y futuros fácilmente.
 
-## Screenshots
+## Capturas de Pantalla
 
-![Welcome Screen](https://imgur.com/hHQ6Nzj.png)
+![Pantalla de Bienvenida](https://imgur.com/hHQ6Nzj.png)
 
-![Login Screen](https://imgur.com/TRdR70L.png)
+![Pantalla de Inicio de Sesión](https://imgur.com/TRdR70L.png)
 
-![Sign Up Screen](https://imgur.com/pYccaxx.png)
+![Pantalla de Registro](https://imgur.com/pYccaxx.png)
 
-![My Orders Screen](https://imgur.com/wI8Xw7P.png)
+![Pantalla de Mis Pedidos](https://imgur.com/wI8Xw7P.png)
 
-![Favorite Food Screen](https://imgur.com/RWQeItI.png)
+![Pantalla de Comida Favorita](https://imgur.com/RWQeItI.png)
 
-![Home Screen](https://imgur.com/PmypU9w.png)
+![Pantalla de Inicio](https://imgur.com/PmypU9w.png)
 
-![Cart Details](https://imgur.com/naLhDYi.png)
+![Detalles del Carrito](https://imgur.com/naLhDYi.png)
