@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iFoody_JMI</string>
+    <string name="open_menu">Opening menu</string>
+    <string name="close_menu">Closing menu</string>
+    <string name="signin"><u>Sign In</u></string>
+    <string name="review"><u>See Review</u></string>
+</resources>
